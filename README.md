@@ -1,4 +1,3 @@
 # Rider-Community-App
 
-
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 16 28 57](https://user-images.githubusercontent.com/92324662/207159669-bed0bb48-8a04-488e-8cbe-e0f4f02696bf.png | width = 100, height = 200)
+<img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.28.57.png" width = "50">
