@@ -25,9 +25,13 @@ Third, the student forum. This purpose of this section is direct student to stud
 <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.27.png" width = "225"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/simulator_screenshot_390378D1-41D0-4714-8853-6FF4DC785083.png" width = "225"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/simulator_screenshot_740D5801-0208-4C4F-9AF5-048D040DC441.png" width = "225"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/simulator_screenshot_73DB316D-1266-40C5-8EC4-89378FD90FF8.png" width = "225"> 
 
 Fourth, the account. This sections serves to aggregate all the interactions the students have with our app. They can see upcoming events, a list of all their posts, the clubs they joined, and the events they added to their account. 
+
+
 <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.28.57.png" width = "300"><img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.05.png" width = "300"><img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.17.png" width = "300">
 
-
-<img src = "" width = "225">
-
-We are working on a push notification system that will notify the user of upcoming events at set time intervals. 
+In development:
+<ul>
+<li>Push notification system that will notify the user of upcoming events at set time intervals. </li>
+<li>Accounts for Clubs and the college with seperate UI for managing their pages </li>
+<li>UI improvemnts </li>
+</ul>
