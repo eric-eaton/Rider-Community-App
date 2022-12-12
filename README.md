@@ -6,10 +6,17 @@ This repository features an implementation of the Community App Framework. This 
 
 We utilize Firebase for authentication and storing account data. Theses are the sign in and create accounts page for the app
 
-<spacer type = "horizontal" width = "100">                   </spacer> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.30.25.png" width = "300">.                 <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.30.30.png" width = "300">
+<img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.30.25.png" width = "300"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.30.30.png" width = "300">
 
 We divided our application into four sections: College, Clubs, Forum, Account. 
 
-First, College. The purpose of this section is to provide the university with tools to keep their students informed of news and alerts. The college page is divided into a posts and events section. The college can generate posts for students to view and reply to, and they can also create events which students can add to their accounts.
+First, College. The purpose of this section is to provide the college with tools to keep their students informed of news and alerts. The college page is divided into a posts and events section. The college can generate posts for students to view and reply to, and they can also create events which students can add to their accounts.
+
+<img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.30.00.png" width = "300"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.30.05.png" width = "300">
+
+Second, Clubs. The purpose of this section is to provide the Clubs and organizations active on the college's campus to interact with their existing memebers and promote themselves to new ones. The clubs are functionally identical to the college page, such that they can generate posts and events for students.
+
+<img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.51.png" width = "300"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.48.png" width = "300">
+
 
 <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.30.00.png" width = "300"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.30.05.png" width = "300">
