@@ -27,7 +27,7 @@ Third, the student forum. This purpose of this section is direct student to stud
 Fourth, the account. This sections serves to aggregate all the interactions the students have with our app. They can see upcoming events, a list of all their posts, the clubs they joined, and the events they added to their account. 
 
 
-<img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.28.57.png" width = "300"><img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.05.png" width = "300"><img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.17.png" width = "300">
+<img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.28.57.png" width = "300"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.05.png" width = "300"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.17.png" width = "300">
 
 In development:
 <ul>
