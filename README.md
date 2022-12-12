@@ -4,6 +4,8 @@ Welcome to the preview repository for the Rider Community App. At present our pr
 
 This repository features an implementation of the Community App Framework. This framework provides College Campuses with the tools they need to engage students with the campus community. Below are some screen shots and explanation of features for the application.
 
+The framework was developed using Swift in Xcode for iOS devices. We currently have no plans for an android version.
+
 We utilize Firebase for authentication and storing account data. Theses are the sign in and create accounts page for the app
 
 <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.30.25.png" width = "300"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.30.30.png" width = "300">
@@ -21,3 +23,11 @@ Second, Clubs. The purpose of this section is to provide the Clubs and organizat
 Third, the student forum. This purpose of this section is direct student to student interaction in a discussion board format. Any student can generate a post and reply to other student's posts. 
 
 <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.27.png" width = "225"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/simulator_screenshot_390378D1-41D0-4714-8853-6FF4DC785083.png" width = "225"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/simulator_screenshot_740D5801-0208-4C4F-9AF5-048D040DC441.png" width = "225"> <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/simulator_screenshot_73DB316D-1266-40C5-8EC4-89378FD90FF8.png" width = "225"> 
+
+Fourth, the account. This sections serves to aggregate all the interactions the students have with our app. They can see upcoming events, a list of all their posts, the clubs they joined, and the events they added to their account. 
+<img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.28.57.png" width = "300"><img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.05.png" width = "300"><img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.29.17.png" width = "300">
+
+
+<img src = "" width = "225">
+
+We are working on a push notification system that will notify the user of upcoming events at set time intervals. 
