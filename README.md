@@ -4,7 +4,8 @@ Welcome to the preview repository for the Rider Community App. At present our pr
 
 This repository features an implementation of the Community App Framework. This framework provides College Campuses with the tools they need to engage students with the campus community. Below are some screen shots and explanation of features for the application.
 
-We utilize Firebase for authentication and storing account data. This is the sign in page for the app\n
+We utilize Firebase for authentication and storing account data. This is the sign in page for the app
+
 <img src = "https://github.com/eric-eaton/Rider-Community-App/blob/main/Community%20App%20Images/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-12%20at%2016.30.25.png" width = "100">
 
 This is the create account page
