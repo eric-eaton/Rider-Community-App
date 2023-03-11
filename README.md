@@ -34,4 +34,5 @@ In development:
 <li>Push notification system that will notify the user of upcoming events at set time intervals. </li>
 <li>Accounts for Clubs and the college with seperate UI for managing their pages </li>
 <li>UI improvemnts </li>
+<li>Andriod Version</li>
 </ul>
